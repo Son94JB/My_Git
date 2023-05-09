@@ -8,6 +8,7 @@
 # Skills🛠
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3376AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-3376AB.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 
 ![Html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/Css3-1572B6.svg?&style=for-the-badge&logo=Css3&logoColor=white)
