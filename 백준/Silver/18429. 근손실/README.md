@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 88 ms
+메모리: 14288 KB, 시간: 132 ms
 
 ### 분류
 
@@ -20,7 +20,7 @@
 
 <p>예를 들어 <em>N</em>=3, <em>K</em>=4일 때, 각 운동 키트의 중량 증가량이 다음과 같다고 가정하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/10cf9d39-5234-4efc-978b-282168b9459b/-/preview/" style="height: 83px; width: 440px;"></p>
+<p style="text-align: center;"><img alt="" src="" style="height: 83px; width: 440px;"></p>
 
 <p style="text-align: justify;">이 때 1번, 3번, 2번 순서대로 운동 키트를 적용한다고 해보자. 이 경우 운동 1일차에 대학원생은 중량이 3만큼 증가하지만 그와 동시에 하루에 중량이 4만큼 감소하기 때문에, 1일이 지난 이후에 중량은 499가 된다. 따라서 조건을 만족하지 못한다.</p>
 
@@ -30,7 +30,7 @@
 
 <p style="text-align: justify;">위 예시에서는 모든 경우 중에서 총 4가지 경우가 조건을 만족한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/110be0a7-6239-43b4-b746-acf89584f59b/-/preview/" style="height: 275px; width: 400px;"></p>
+<p style="text-align: center;"><img alt="" src="" style="height: 275px; width: 400px;"></p>
 
 ### 입력 
 
