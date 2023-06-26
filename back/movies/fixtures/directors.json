@@ -1,0 +1,555 @@
+[
+    {
+        "model": "movies.director",
+        "pk": 15277,
+        "fields": {
+            "name": "Jon Favreau"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1108,
+        "fields": {
+            "name": "Shane Black"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 35270,
+        "fields": {
+            "name": "Eric Radomski"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1266051,
+        "fields": {
+            "name": "Leo Riley"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 929851,
+        "fields": {
+            "name": "Hiroshi Hamasaki"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1040501,
+        "fields": {
+            "name": "Sonia Anderson"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 119337,
+        "fields": {
+            "name": "Choi Dong-hoon"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 84976,
+        "fields": {
+            "name": "Kang Hyung-chul"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1500680,
+        "fields": {
+            "name": "Kwon O-kwang"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3683984,
+        "fields": {
+            "name": "Wang Il-sang"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3431796,
+        "fields": {
+            "name": "Lee Seung-Jin"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 83032,
+        "fields": {
+            "name": "Lee Ji-seung"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3487505,
+        "fields": {
+            "name": "Kim Min-hyung"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 21684,
+        "fields": {
+            "name": "Bong Joon-ho"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 11770,
+        "fields": {
+            "name": "John Carpenter"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 5953,
+        "fields": {
+            "name": "Spike Jonze"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 109857,
+        "fields": {
+            "name": "Thor Freudenthal"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 81718,
+        "fields": {
+            "name": "Mamoru Hosoda"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 68905,
+        "fields": {
+            "name": "Jang Joon-hwan"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 5140,
+        "fields": {
+            "name": "Wes Craven"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 96337,
+        "fields": {
+            "name": "Scott Jeralds"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 18855,
+        "fields": {
+            "name": "Ralph S. Singleton"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1462014,
+        "fields": {
+            "name": "Sho Tsukikawa"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 98132,
+        "fields": {
+            "name": "Jim Wynorski"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 11435,
+        "fields": {
+            "name": "Howard Hawks"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 13973,
+        "fields": {
+            "name": "Christian Nyby"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 18598,
+        "fields": {
+            "name": "Ishirō Honda"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 11558,
+        "fields": {
+            "name": "Eugène Lourié"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 91659,
+        "fields": {
+            "name": "Harry Bromley Davenport"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1801413,
+        "fields": {
+            "name": "David Casademunt"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 29662,
+        "fields": {
+            "name": "Terence Fisher"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1193439,
+        "fields": {
+            "name": "Rob Silvestri"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 119137,
+        "fields": {
+            "name": "Atsuya Uki"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 10099,
+        "fields": {
+            "name": "Park Chan-wook"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 93107,
+        "fields": {
+            "name": "Masaaki Yuasa"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 60744,
+        "fields": {
+            "name": "Junichi Suzuki"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 10601,
+        "fields": {
+            "name": "Joseph L. Mankiewicz"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 28615,
+        "fields": {
+            "name": "Éric Rohmer"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 587603,
+        "fields": {
+            "name": "Keisuke Kinoshita"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 5306,
+        "fields": {
+            "name": "Lasse Hallström"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1010158,
+        "fields": {
+            "name": "Kôyû Ohara"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 150641,
+        "fields": {
+            "name": "Gary Halvorson"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1995383,
+        "fields": {
+            "name": "Lee Min-II"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3674307,
+        "fields": {
+            "name": "Ri Yoon"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1323831,
+        "fields": {
+            "name": "Lee Hyeong-Pyo"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2166752,
+        "fields": {
+            "name": "Kim Bora"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2231323,
+        "fields": {
+            "name": "Park Ho-tae"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 108,
+        "fields": {
+            "name": "Peter Jackson"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 16137,
+        "fields": {
+            "name": "Kenji Kamiyama"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3113307,
+        "fields": {
+            "name": "Jason B. Boret"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 16410,
+        "fields": {
+            "name": "Jules Bass"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 16411,
+        "fields": {
+            "name": "Arthur Rankin, Jr."
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 51894,
+        "fields": {
+            "name": "J. A. Bayona"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1135240,
+        "fields": {
+            "name": "Kim Seong-hun"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2127,
+        "fields": {
+            "name": "James Wan"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 578,
+        "fields": {
+            "name": "Ridley Scott"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 18898,
+        "fields": {
+            "name": "Rob Minkoff"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 114334,
+        "fields": {
+            "name": "David Michôd"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 36602,
+        "fields": {
+            "name": "Peter Berg"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 5655,
+        "fields": {
+            "name": "Wes Anderson"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 43526,
+        "fields": {
+            "name": "Sturla Gunnarsson"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 67589,
+        "fields": {
+            "name": "Alastair Fothergill"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 67592,
+        "fields": {
+            "name": "Mark Linfield"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 42,
+        "fields": {
+            "name": "Lars von Trier"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 97966,
+        "fields": {
+            "name": "John \"Bud\" Cardos"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 144536,
+        "fields": {
+            "name": "Shinsuke Sato"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1698684,
+        "fields": {
+            "name": "Scott Jeffrey"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2389463,
+        "fields": {
+            "name": "Peter Magát"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 237089,
+        "fields": {
+            "name": "Stefano Milla"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2014885,
+        "fields": {
+            "name": "Olicer J. Munoz"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1243962,
+        "fields": {
+            "name": "Tatsuyuki Nagai"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1594439,
+        "fields": {
+            "name": "Soner Caner"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 572222,
+        "fields": {
+            "name": "Bongsoo"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1134991,
+        "fields": {
+            "name": "Park Eun-hyung"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 133057,
+        "fields": {
+            "name": "Naoto Kumazawa"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 222861,
+        "fields": {
+            "name": "Lee Jung-Chul"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 30038,
+        "fields": {
+            "name": "Glenn Jordan"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2987106,
+        "fields": {
+            "name": "Yoko Ikeda"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3222054,
+        "fields": {
+            "name": "Yun Choi"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "model": "movies.genre",
+        "pk": 1,
+        "fields": {
+            "name": "genre1"
+        }
+    },
+    {
+        "model": "movies.genre",
+        "pk": 2,
+        "fields": {
+            "name": "genre2"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 1,
+        "fields": {
+            "name": "direc1"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 2,
+        "fields": {
+            "name": "direc2"
+        }
+    },
+    {
+        "model": "movies.director",
+        "pk": 3,
+        "fields": {
+            "name": "direc3"
+        }
+    },
+    {
+        "model": "movies.actor",
+        "pk": 1,
+        "fields": {
+            "name": "actor1"
+        }
+    },
+    {
+        "model": "movies.actor",
+        "pk": 2,
+        "fields": {
+            "name": "actor2"
+        }
+    },
+    {
+        "model": "movies.actor",
+        "pk": 3,
+        "fields": {
+            "name": "actor3"
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "title": "movie1",
+            "overview": "dddd",
+            "poster": "poster",
+            "trailer": "trailer",
+            "genre": [1],
+            "actor": [1],
+            "director": [1]
+        }
+    }
+]
