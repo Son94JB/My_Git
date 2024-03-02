@@ -1,10 +1,14 @@
 def find_substring_lengths(s, k):
+    from collections import defaultdict
+
+    char_indices = defaultdict(list)
+    for i, char in enumerate(s):
+        char_indices[char].append(i)
 
     min_length = 10001
     max_length = 0
 
-    for char in set(s):
-        indices = [i for i, x in enumerate(s) if x == char]
+    for indices in char_indices.values():
         if len(indices) < k:
             continue
 
@@ -19,12 +23,12 @@ def find_substring_lengths(s, k):
     return min_length, max_length
 
 
-for _ in range(int(input())):
-
-    word = input()
+t = int(input())
+for _ in range(t):
+    s = input()
     k = int(input())
-    answer1, answer2 = find_substring_lengths(word, k)
-    if answer1 == -1:
+    min_length, max_length = find_substring_lengths(s, k)
+    if min_length == -1:
         print(-1)
     else:
-        print(answer1, answer2)
+        print(min_length, max_length)
