@@ -1,22 +1,33 @@
+import sys
+input = sys.stdin.readline
+
+
+def is_good(num_list, num):
+
+    start = 0
+    end = len(num_list) - 1
+
+    while start < end:
+        a = num_list[start] + num_list[end]
+        if a > num:
+            end -= 1
+        elif a < num:
+            start += 1
+        elif a == num:
+            return 1
+    return 0
+
+
 N = int(input())
 nums = list(map(int, input().split()))
-nums_sorted = sorted(nums)
-
+nums.sort()
 count = 0
-for i in range(N):
-    left = 0
-    right = N - 1
-    while left < right:
-        if right == i:
-            right -= 1
-        elif left == i:
-            left += 1
-        elif nums_sorted[left] + nums_sorted[right] < nums_sorted[i]:
-            left += 1
-        elif nums_sorted[left] + nums_sorted[right] > nums_sorted[i]:
-            right -= 1
-        else:
-            count += 1
-            break
 
-print(count)
+if len(nums) <= 2:
+    print(0)
+else:
+    for i in range(N):
+        new = nums[:i] + nums[i+1:]
+        count += is_good(new, nums[i])
+    print(count)
+
