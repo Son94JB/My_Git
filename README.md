@@ -1,4 +1,4 @@
-### Hi! I'm SON JUNBAE. I want yo contribute goodness to people !!
+### Hi! I'm SON JUNBAE. I want to contribute goodness to people !!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSon94JB%2Fhit-counter&count_bg=%23162B96&title_bg=%23434141&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,6 +9,7 @@
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3376AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-3376AB.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+![Java}(https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ![Html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/Css3-1572B6.svg?&style=for-the-badge&logo=Css3&logoColor=white)
