@@ -1,3 +1,16 @@
+def reverse_dir(dir):
+    if dir == "U":
+        r_dir = "D"
+    elif dir == "D":
+        r_dir = "U"
+    elif dir == "R":
+        r_dir = "L"
+    elif dir == "L":
+        r_dir = "R"
+
+    return r_dir
+
+
 def solution(dirs):
     answer = 0
     # UDLR 각각 상하좌우로 한 칸씩 가는 명령어
@@ -23,9 +36,9 @@ def solution(dirs):
             nxt_x = cur_x + 1
 
         if -5 <= nxt_x <= 5 and -5 <= nxt_y <= 5:  # 범위 내
-            if (cur_x, cur_y, nxt_x, nxt_y) not in visited and (nxt_x, nxt_y, cur_x, cur_y) not in visited:
-                # 해당 방향으로 방문 기록이 없다면
-                visited.add((cur_x, cur_y, nxt_x, nxt_y))
+            if (nxt_x, nxt_y, dir) not in visited and (cur_x, cur_y, reverse_dir(dir)) not in visited:
+                # 해당 방향으로 방문 기록이 없다면 추가해준다.
+                visited.add((nxt_x, nxt_y, dir))
             # 이동 후 다시 현재 포인트를 바꿔준다.
             cur_x = nxt_x
             cur_y = nxt_y
